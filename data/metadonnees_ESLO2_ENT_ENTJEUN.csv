@@ -1,0 +1,92 @@
+directory,age,total_duration(hh:mm:ss),loc_duration(mm:ss),sexe,niveau_etude,profession,categorie_professionnelle
+ESLO2_ENT_1002,46,01:07:0,33:09,femme,bac+2,educatrice specialisee,professions intermediaires
+ESLO2_ENT_1001,23,01:08:4,13:47,homme,bac+1,ouvrier batiment,ouvriers
+ESLO2_ENT_1007,29,00:46:5,14:40,femme,bac+5 et plus,doctorante,cadres et professions intellectuelles superieures
+ESLO2_ENT_1006,80,02:08:2,43:15,homme,brevet,retraite taillandier,retraites
+ESLO2_ENT_1005,49,01:02:1,36:10,femme,bac+5 et plus,femme au foyer,autres personnes sans activite professionnelle
+ESLO2_ENT_1004,62,01:08:5,33:50,femme,bac,retraite institutrice,retraites
+ESLO2_ENT_1003,21,01:20:1,21:51,femme,bac+1,non renseigne,autres personnes sans activite professionnelle
+ESLO2_ENT_1008,44,01:12:3,32:50,femme,bac+4,chomeur,autres personnes sans activite professionnelle
+ESLO2_ENT_1009,66,01:11:3,36:05,femme,bac,retraite institutrice,retraites
+ESLO2_ENT_1010,31,00:58:2,24:41,homme,bac+5 et plus, delegue medical,cadres et professions intellectuelles superieures
+ESLO2_ENT_1011,66,01:07:4,13:47,homme,bac+3,retraite chef d'entreprise familiale,
+ESLO2_ENT_1013,27,01:03:4,31:30,homme,lycee incomplet,referent periscolaire,employes
+ESLO2_ENT_1014,63,01:17:2,38:15,homme,bac+5 et plus,retraite ingenieur d'etude CNRS,retraites
+ESLO2_ENT_1015,73,01:10:2,31:40,femme,brevet,retraite banquier,retraites
+ESLO2_ENT_1016,52,01:00:0,23:45,femme,bac,chargee de controle antiblanchiment au centre financier La Poste,professions intermediaires
+ESLO2_ENT_1017,28,00:50:3,13:03,homme,bac+3,animateur periscolaire,professions intermediaires
+ESLO2_ENT_1018,55,00:51:0,21:41,femme,bac,aide medico psychologique,employes
+ESLO2_ENT_1019,28,00:46:5,16:03,homme,bac+5 et plus,ingenieur en informatique,cadres et professions intellectuelles superieures
+ESLO2_ENT_1020,52,00:52:2,21:39,femme,bac+4,professeur d'anglais,cadres et professions intellectuelles superieures
+ESLO2_ENT_1021,85,01:22:3,29:57,femme,non renseigne,retaite,retraites
+ESLO2_ENT_1032,69,01:02:4,28:48,homme,bac+3,retraite,retraites
+ESLO2_ENT_1022,60,00:59:3,24:54,femme,non renseigne,infirmiere,professions intermediaires
+ESLO2_ENT_1023,68,01:11:5,22:16,femme,certificat d'etude,retraite ouvrier,retraites
+ESLO2_ENT_1024,85,01:04:3,14:48,femme,certificat d'etude,retraite maraicher,retraites
+ESLO2_ENT_1025,56,01:05:2,05:02,homme,secondaire incomplet,boulanger,employes
+ESLO2_ENT_1026,23,01:41:5,54:59,femme,bac,animatrice periscolaire,professions intermediaires
+ESLO2_ENT_1027,41,00:51:2,27:53,homme,bac+2,coutelier, artisans commerçants et chefs d'entreprise
+ESLO2_ENT_1028,58,00:54:5,20:20,homme,bac+5 et plus,gastro enterologue,cadres et professions intellectuelles superieures
+ESLO2_ENT_1029,54,01:42:5,56:15,homme,lycee incomplet,marionnettiste realisateur,professions intermediaires
+ESLO2_ENT_1030,89,01:16:5,17:12,femme,certificat d'etude,retraite fonctionnaire,retraite
+ESLO2_ENT_1031,36,00:51:5,28:39,femme,bac+2,responsable magasin,employes
+ESLO2_ENT_1033,44,00:55:4,13:44,femme,bac,commerce alimentaire,artisans commerçants et chefs d'entreprise
+ESLO2_ENT_1034,45,01:23:5,46:07,femme,bac+2,technicienne agricole,employe
+ESLO2_ENT_1035,68,00:55:4,17:04,femme,certificat d'etude,retraite secretaire comptable,professions intermediaires
+ESLO2_ENT_1036,49,00:53:3,20:21,femme,bac+5 et plus,professeur d'anglais,cadres et professions intellectuelles superieures
+ESLO2_ENT_1037,39,01:19:0,39:59,homme,bac+1,caviste,artisans commerçants et chefs d'entreprise
+ESLO2_ENT_1038,21,01:18:0,40:21,femme,brevet,vendeuse,employe
+ESLO2_ENT_1039,67,01:07:1,34:43,femme,bac+5 et plus,retraite secteur social,cadres et professions intellectuelles superieures
+ESLO2_ENT_1041,30,01:11:0,32:53,homme,non renseigne,reporter radio bleue,professions intermediaires
+ESLO2_ENT_1042,32,00:47:5,09:23,femme,bac+2,invalidite,autres personnes sans activite professionnelle
+ESLO2_ENT_1043,39,00:42:1,22:25,femme,bac+5 et plus,ingenieur en agriculture,cadres et professions intellectuelles superieures
+ESLO2_ENT_1044,32,00:57:5,20:34,femme,bac+2,musicienne,professions intermediaires
+ESLO2_ENT_1045,50,00:50:4,13:43,femme,certificat d'etude,professionnel actif ATSEM,professions intermediaires
+ESLO2_ENT_1046,58,01:18:3,36:32,homme,primaire,chomeur ajusteur,ouvriers
+ESLO2_ENT_1047,25,00:55:2,18:26,homme,bac+2,ambulancier,employes
+ESLO2_ENT_1048,24,00:45:3,12:30,homme,bac+2,technicien de maintenance informatique,emplyes
+ESLO2_ENT_1049,46,02:10:0,73:58,homme,bac+1,enqueteur et gestionnaire d'enquete aupres des entreprises,employes
+ESLO2_ENT_1050,35,00:48:3,19:51,homme,bac,directeur d'association multisport,autres personnes sans activite professionnelle
+ESLO2_ENT_1051,48,00:41:1,15:10,femme,bac,estheticienne,artisans commerçants et chefs d'entreprise
+ESLO2_ENT_1052,89,01:01:1,28:17,femme,primaire,retraitee employee assedic,employes
+ESLO2_ENT_1053,40,00:40:5,07:14,homme,bac+2,agent sncf,employes
+ESLO2_ENT_1054,56,01:55:2,51:50,homme,bac+2,buraliste,artisans commeçants et chefs d'entreprise
+ESLO2_ENT_1055,45,01:01:2,06:39,homme,brevet,menuisier,employes
+ESLO2_ENT_1056,36,00:56:3,08:03,femme,bac+5 et plus,psychiatre,cadres et professions intellectuelles superieures
+ESLO2_ENT_1057,43,01:18:3,22:35,femme,lycee incomplet,agent d'accueil,employes
+ESLO2_ENT_1058,36,01:09:5,21:05,femme,bac+5 et plus,psychologue,cadres et professions intellectuelles superieures
+ESLO2_ENT_1060,41,01:01:2,25:53,femme,bac+2,infirmiere,employes
+ESLO2_ENT_1062,33,00:29:0,07:03,femme,bac,factrice,employe
+ESLO2_ENT_1063,68,01:06:1,16:16,homme,bac,retraite employee de banque,retraites
+ESLO2_ENT_1065,74,00:52:2,17:52,femme,bac+2,retraite secretaire chef departement scientifique,cadres et professions intellectuelles superieures
+ESLO2_ENT_1066,65,01:03:5,23:33,homme,certificat d'etude,retraite gardien de la paix,retraites
+ESLO2_ENT_1272,36,01:23:3,44:40,homme,lycee incomplet,recherche d'emploi,autres personnes sans activite professionnelle
+ESLO2_ENT_1085,50,00:56:2,16:04,femme,brevet,femme de menage,employes
+ESLO2_ENT_1084,63,01:54:2,57:26,homme,bac,retraite du domaine social,retaites
+ESLO2_ENT_1083,32,01:24:0,37:59,femme,bac+2,directrice SAV,professions intermediaires ##########probleme
+ESLO2_ENT_1082,30,01:00:2,19:42,homme,brevet,agent de maitrise en patisserie dans un supermarche,employes
+ESLO2_ENT_1079,71,01:04:3,26:12,homme,bac+4, retraite cadre administratif,retraites
+ESLO2_ENT_1078,80,01:00:2,24:09,femme,bac+1, retraite conseillere professionnelle,retraites
+ESLO2_ENT_1077,51,00:53:1,17:40,femme,bac,comptable,employes
+ESLO2_ENT_1076,40,00:41:4,17:34,femme,bac,nourrice,non renseigne
+ESLO2_ENT_1075,26,00:38:4,08:22,homme,bac+2,traducteur,cadres et professions intellectuelles superieures
+ESLO2_ENT_1071,33,00:46:2,12:34,femme,bac+5 et plus,ingenieur en environnement minier,cadres et professions intellectuelles superieures
+ESLO2_ENT_1070,37,00:56:1,20:30,femme,bac+5 et plus,animatrice culturelle dans un musee,cadres et professions intellectuelles superieures
+ESLO2_ENT_1069,62,00:51:1,20:19,femme,bac+5 et plus,retraite geologue documentaliste,retraites
+ESLO2_ENT_1067,58,01:24:0,45:17,femme,bac+2,retraite enseignante allemand,cadres et professions intellectuelles superieures
+ESLO2_ENTJEUN_1228,25,00:49:30,21:42,homme,bac+3,graphiste,professions intermediaires
+ESLO2_ENTJEUN_1229,23,00:30:47,09:15,femme,bac+1,technicienne de production industrielle,ouvriers
+ESLO2_ENTJEUN_1230,20,00:38:54,14:44,femme,bac+3,vendeuse,employes
+ESLO2_ENTJEUN_1231,22,00:24:47,07:42,femme,bac+5 et plus,etudiant,autres personnes sans activite professionnelle
+ESLO2_ENTJEUN_1232,24,00:53:10,18:31,homme,bac+5 et plus,ingenieur,cadres et professions intellectuelles superieures
+ESLO2_ENTJEUN_1233,25,00:48:32,15:47,homme,bac+2,agent sncf,employes
+ESLO2_ENTJEUN_1234,23,00:45:17,11:42,femme,bac+5 et plus,etudiant,autres personnes sans activite professionnelle
+ESLO2_ENTJEUN_1235,22,01:05:44,28:39,femme,bac+5 et plus,etudiant,autres personnes sans activite professionnelle
+ESLO2_ENTJEUN_1236,21,01:00:03,23:08,femme,bac+3,etudiant,autres personnes sans activite professionnelle
+ESLO2_DIA_1221,vieux,,00:43:02,homme,bac+5 et plus,retraite,retraites
+ESLO2_DIA_1222,vieux,,00:34:01,femme,bac+5 et plus,cadre hospitalier,cadres et professions intellectuelles superieures
+ESLO2_DIA_1223,vieux,,00:40:46,homme,CAP,retraite ouvrier,retraites
+ESLO2_DIA_1224,vieux,,00:27:56,femme,CEP,retraite,retraites
+ESLO2_DIA_1225,vieux,,00:34:07,homme,bac+5 et plus,professeur de physique,cadres et professions intellectuelles superieures
+ESLO2_DIA_1226,vieux,,01:14:59,homme,CAP,retraite ouvrier,retraite
+ESLO2_DIA_1227,vieux,,00:57:06,homme,CEP,retraite ouvrier,retraite
